@@ -9,6 +9,8 @@ TON cuda and opencl miner
 - Automatic change of pool addresses on failures
 - Very low percentage of seed shares
 
+**The application has devfee 1% (one share out of a hundred goes to the developer)**
+
 How to start mining guide https://korepov.com/ton/minerpro/help.php
 
 Statistics example https://korepov.com/ton/minerpro/?wallet=EQAIxel94QQBAiArH5taFYL0Lwntnhk79-AmcA23BvQsFUtc
