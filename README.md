@@ -18,7 +18,7 @@ Statistics example https://korepov.com/ton/minerpro/?wallet=EQAIxel94QQBAiArH5ta
 
 Bost Factor example https://korepov.com/ton/minerpro/boostfactor.php
 
-![image](https://user-images.githubusercontent.com/35364901/151612399-1c790a86-f368-475e-8089-037b90275789.png)
+![image](https://user-images.githubusercontent.com/35364901/153050789-81dd1eb0-4e24-490b-a30d-21dd0dcb048b.png)
 
 ![image](https://user-images.githubusercontent.com/35364901/151612975-10d9e71d-e3e9-46ea-a51f-55154817c555.png)
 
