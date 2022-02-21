@@ -1,6 +1,9 @@
 # TonMinerPro
 TON cuda and opencl miner
 
+- Auto-switching pools for maximum profit
+- Added "Pool Web", "Pool stat", "Pool bot" buttons to the miner's interface, which respectively open the pool website, pool statistics for the wallet (if any), pool bot telegrams (if any)
+- Added data on the balance and profitability of each pool to the balance logs of the miner (it is not possible to get the balance on the Ton-coin pool)
 - CUDA and OpenCL mining
 - High hashrate
 - Very low CPU usage for cuda
@@ -18,7 +21,7 @@ Statistics example https://korepov.com/ton/minerpro/?wallet=EQAIxel94QQBAiArH5ta
 
 Bost Factor example https://korepov.com/ton/minerpro/boostfactor.php
 
-![image](https://user-images.githubusercontent.com/35364901/153050789-81dd1eb0-4e24-490b-a30d-21dd0dcb048b.png)
+![image](https://user-images.githubusercontent.com/35364901/154995487-f0182347-1319-44d8-bb9d-8b27efdce656.png)
 
 ![image](https://user-images.githubusercontent.com/35364901/151612975-10d9e71d-e3e9-46ea-a51f-55154817c555.png)
 
