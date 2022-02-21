@@ -23,5 +23,8 @@ Bost Factor example https://korepov.com/ton/minerpro/boostfactor.php
 
 ![image](https://user-images.githubusercontent.com/35364901/154995487-f0182347-1319-44d8-bb9d-8b27efdce656.png)
 
-![image](https://user-images.githubusercontent.com/35364901/151612975-10d9e71d-e3e9-46ea-a51f-55154817c555.png)
+![image](https://user-images.githubusercontent.com/35364901/154995728-10ceb89f-287e-4e23-91d2-16aef7dc4c7a.png)
+
+![image](https://user-images.githubusercontent.com/35364901/154995818-fe35af0d-28d8-4c9a-b0ea-3fc4846d8075.png)
+
 
