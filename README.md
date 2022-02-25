@@ -1,6 +1,8 @@
 # TonMinerPro
 TON cuda and opencl miner
 
+Latest release https://github.com/EvgeniyKorepov/TonMinerPro/releases/latest
+
 - Auto-switching pools for maximum profit
 - Added "Pool Web", "Pool stat", "Pool bot" buttons to the miner's interface, which respectively open the pool website, pool statistics for the wallet (if any), pool bot telegrams (if any)
 - Added data on the balance and profitability of each pool to the balance logs of the miner (it is not possible to get the balance on the Ton-coin pool)
