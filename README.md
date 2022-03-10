@@ -1,7 +1,7 @@
 # TonMinerPro
 TON miner for Nvidia and AMD cards
 
-[На русском](https://github.com/EvgeniyKorepov/TonMinerPro/blob/main/README_RU.md)
+[Описание на русском](https://github.com/EvgeniyKorepov/TonMinerPro/blob/main/README_RU.md)
 
 Latest release https://github.com/EvgeniyKorepov/TonMinerPro/releases/latest
 
