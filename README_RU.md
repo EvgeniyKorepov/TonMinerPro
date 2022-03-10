@@ -1,4 +1,4 @@
-# ТонМайнерПро
+# TonMinerPro
 TON-майнер для карт Nvidia и AMD
 
 Последний релиз https://github.com/EvgeniyKorepov/TonMinerPro/releases/latest
