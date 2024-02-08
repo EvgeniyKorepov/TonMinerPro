@@ -1,4 +1,4 @@
-# TonMinerPro
+# TonMinerPro for Gram
 TON miner for Nvidia and AMD cards
 
 [Описание на русском](https://github.com/EvgeniyKorepov/TonMinerPro/blob/main/README_RU.md)
@@ -6,8 +6,7 @@ TON miner for Nvidia and AMD cards
 Latest release https://github.com/EvgeniyKorepov/TonMinerPro/releases/latest
 
 - Support pools :
-  - Ton Whales https://tonwhales.com/mining
-  - TON Pool https://ton-pool.com/
+  - Gram https://ton.ninja/   
 - Auto-switching pools for maximum profit
 - Added "Pool Web", "Pool stat", "Pool bot" buttons to the miner's interface, which respectively open the pool website, pool statistics for the wallet (if any), pool bot telegrams (if any)
 - Added data on the balance and profitability of each pool to the balance logs of the miner (it is not possible to get the balance on the Ton-coin pool)
@@ -20,7 +19,7 @@ Latest release https://github.com/EvgeniyKorepov/TonMinerPro/releases/latest
 - Automatic change of pool addresses on failures
 - Very low percentage of seed shares
 
-**The application has devfee 1% (one share out of a hundred goes to the developer)**
+**The application has devfee 2% (one share out of a hundred goes to the developer)**
 
 How to start mining guide https://korepov.com/ton/minerpro/help.php
 
