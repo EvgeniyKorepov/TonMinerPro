@@ -19,7 +19,7 @@ Latest release https://github.com/EvgeniyKorepov/TonMinerPro/releases/latest
 - Automatic change of pool addresses on failures
 - Very low percentage of seed shares
 
-**The application has devfee 2% (one share out of a hundred goes to the developer)**
+**The application has devfee 2% (one share out of fifty goes to the developer)**
 
 How to start mining guide https://korepov.com/ton/minerpro/help.php
 
